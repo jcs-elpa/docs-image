@@ -1,4 +1,4 @@
-name: Tag new version and build docker image
+name: Build
 
 on:
   push:
