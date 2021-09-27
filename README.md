@@ -2,6 +2,6 @@
 
 # docs-image
 
-[![Tag new version and build docker image](https://github.com/jcs-elpa/docs-image/actions/workflows/docker-image.yml/badge.svg)](https://github.com/jcs-elpa/docs-image/actions/workflows/docker-image.yml)
+[![Build](https://github.com/jcs-elpa/docs-image/actions/workflows/build.yml/badge.svg)](https://github.com/jcs-elpa/docs-image/actions/workflows/build.yml)
 
 Docker image for the jcs-elpa webpages
