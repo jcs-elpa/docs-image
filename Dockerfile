@@ -1,12 +1,8 @@
 FROM python:3
 
-FROM squidfunk/mkdocs-material
-
 RUN pip install --no-cache-dir \
-        'mkdocs-windmill' \
-        'mkdocs-rtd-dropdown' \
-        'mkdocs-ivory' \
-        'mkdocs-bootstrap' \
+        'mkdocs' \
+        'mkdocs-material==8.0.0' \
         'mkdocs-awesome-pages-plugin>=2.2.1' \
         'mkdocs-git-revision-date-localized-plugin>=0.4' \
         'mkdocs-minify-plugin>=0.3' \
